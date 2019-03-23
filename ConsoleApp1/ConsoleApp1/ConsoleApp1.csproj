@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B9746025-4140-49CB-828C-0FE3AAB5E98B}</ProjectGuid>
+    <ProjectGuid>{066D5069-8571-4255-B81D-794478A99682}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>homework1</RootNamespace>
-    <AssemblyName>homework1</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
